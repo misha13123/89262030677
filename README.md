@@ -1,5 +1,5 @@
 # 89262030677
-echo "# 89262030677" >> README.md
+echo "# @conversionmoneybot " >> README.md
 git init
 git add README.md
 git commit -m "first commit"
